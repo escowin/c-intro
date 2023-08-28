@@ -3,8 +3,8 @@
 
 // function
 int main() {
-    // function | outputs text in terminal
-    printf("C terminal test");
+    // function | outputs text in terminal w/ escape sequences
+    printf("Hello.\tI am learning how to \"C\"\nfor the first time.");
     // return ends the main() function
     return 0;
 }
